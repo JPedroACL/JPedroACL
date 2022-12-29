@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Pedro</h1>
-<h3 align="center">A passionate full stack developer from Brazil</h3>
+
 
 - 🌱 I’m currently learning **JS,CSS,HTML and PHP**
 
